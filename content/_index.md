@@ -2,9 +2,9 @@
 
 Selamat datang di tutorial penggunaan markdown. 
 
-Pada dokumen ini akan dibahas tentang penggunaan syntax [[Mardown Language - An Overview|Markdown]] dengan ringkas agar dapat membantu kita dalam mencatat apapun ke dalam catatan digital di kehidupan sehari-hari kita.
+Pada dokumen ini akan dibahas tentang penggunaan syntax [Markdown](Markdown-An-Overview.md) dengan ringkas agar dapat membantu kita dalam mencatat apapun ke dalam catatan digital di kehidupan sehari-hari kita.
 
-Tutorial ini disarankan dijalankan secara local di komputer Anda menggunakan Software [[Obsidian]] sehingga diharapkan dapat menjadi media penyampaian informasi yang interaktif karena komponen apapun yang terdapat pada dokumen ini akan secara langsung dapat dilihat langsung syntaxnya dengan [[Obsidian]].
+Tutorial ini disarankan dijalankan secara local di komputer Anda menggunakan Software [Obsidian](Obsidian.md) sehingga diharapkan dapat menjadi media penyampaian informasi yang interaktif karena komponen apapun yang terdapat pada dokumen ini akan secara langsung dapat dilihat langsung syntaxnya dengan [Obsidian](Obsidian.md).
 
 ## Quick Start
 

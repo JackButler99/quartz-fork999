@@ -1,4 +1,4 @@
-Obsidian merupakan sebuah aplikasi perangkat lunak pengolah teks berbasis [[Markdown - An Overview|Markdown]]. Obsidian dikenal dengan kepraktisan dan fleksibilitas penggunaannya. Obsidian juga memiliki komunitas yang besar, sehingga tersedia banyak PlugIn yang memungkinkan obsidian menambah fitur di luar dari yang dapat diberikan oleh dokumen ini.
+Obsidian merupakan sebuah aplikasi perangkat lunak pengolah teks berbasis [Markdown](Markdown-An-Overview.md). Obsidian dikenal dengan kepraktisan dan fleksibilitas penggunaannya. Obsidian juga memiliki komunitas yang besar, sehingga tersedia banyak PlugIn yang memungkinkan obsidian menambah fitur di luar dari yang dapat diberikan oleh dokumen ini.
 
 Obsidian dapat di unduh di [official website Obsidian](https://obsidian.md/)
 

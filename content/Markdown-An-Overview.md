@@ -1,6 +1,8 @@
+# Markdown - An Overview
+
 ## 1. Apa itu Markdown ? 
 
-Markdown merupakan jenis bahasa pemrograman untuk mengolah teks beserta struktur, format, dan hubungan antar teks Markdown akan menerjemahkan file plaintext dengan ekstensi [****markup language*** ](https://en.wikipedia.org/wiki/Markup_language#:~:text=Markup%20language%20refers%20to%20a,content%20to%20facilitating%20automated%20processing.) yang relatif mudah dibaca dan mudah digunakan dibandingkan [****markup language*** ](https://en.wikipedia.org/wiki/Markup_language#:~:text=Markup%20language%20refers%20to%20a,content%20to%20facilitating%20automated%20processing.) lainnya . 
+Markdown merupakan jenis bahasa pemrograman untuk mengolah teks beserta struktur, format, dan hubungan antar teks Markdown akan menerjemahkan file plaintext dengan ekstensi [***markup language*** ](https://en.wikipedia.org/wiki/Markup_language#:~:text=Markup%20language%20refers%20to%20a,content%20to%20facilitating%20automated%20processing.) yang relatif mudah dibaca dan mudah digunakan dibandingkan [***markup language*** ](https://en.wikipedia.org/wiki/Markup_language#:~:text=Markup%20language%20refers%20to%20a,content%20to%20facilitating%20automated%20processing.) lainnya . 
 	 
 Markdown memiliki sturktur bahasa yang ringan sehingga dalam jumlah yang besar tidak memberatkan proses komputasi dan komunikasi antar server-client via jaringan internet.  
 
