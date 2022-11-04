@@ -1,7 +1,7 @@
 baseURL = "https://jackbutler99.github.io/quartz-fork999/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
