@@ -1,10 +1,11 @@
+# List
 ***Ordered List*** dapat ditambahkan dengan menambahkan nomor tertentu dengan tanda titik, misalkan (1.)  diikuti dengan nomor berapapun.
 
 ***Unordered List*** dapat ditambahkan dengan tanda dash( - ), asterisk( * ), atau plus ( + ) di awal baris.
 
 ***Nested List*** ditambahkan dengan menambah tab atau empat spasi di awal list. 
 
-## 2.6.1 Ordered List
+## Ordered List
 #### Syntax Markdown
 ```markdown
 1. Some text
@@ -22,7 +23,7 @@
 3. Nomor tiga 
 4. dan seterusnya
 
-## 2.6.1 Unordered List
+## Unordered List
 #### Syntax Markdown
 ```
 - Unordered List
@@ -38,5 +39,5 @@
 	+ Nested List 
 + Unordered List
 
-Kembali ke [[Basic Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial | Home]]
+Kembali ke [Basic Syntax](./Basic%20Syntax.md)   
+Kembali ke [Home](/)

@@ -1,3 +1,4 @@
+# Fenced Code Blocks
 Fenced Code blocks merupakan pengembangan dari blok kode standar markdown yang memiliki keunggulan dari segi estetika dan fleksibilitas penggunaan.
 
 Fenced Code Blocks ini memiliki fitur  Syntax Highlighting untuk bahasa pemrograman tertentu seperti yang terlampir pada tabel di bagian akhir halaman ini.
@@ -86,5 +87,5 @@ Daftar Bahasa Pemrograman yang disupport oleh ***fenced code blocks markdown***:
 
 Untuk daftar lengkap bahasa pemrograman yang bisa di-*highlight* oleh [[Obsidian]], bisa diakses [di sini](https://prismjs.com/#supported-languages)
 
-Kembali ke [[Extended Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial |Home]]
+Kembali ke [Extended Syntax](./ExtendedSyntax.md)      
+Kembali ke [Home](/)

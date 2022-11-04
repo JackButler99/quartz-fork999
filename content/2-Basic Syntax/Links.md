@@ -26,8 +26,8 @@ Contoh:
 <fake@example.com>
 ```
 #### Preview:
-<https://numpy.org/doc/stable/>
+<https://numpy.org/doc/stable/>    
 <fake@example.com>
 
-Kembali ke [[Basic Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial | Home]]
+Kembali ke [Basic Syntax](./Basic%20Syntax.md)    
+Kembali ke [Home](/)

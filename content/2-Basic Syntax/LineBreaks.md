@@ -1,6 +1,7 @@
+# Line Break
 Line break dapat dibuat dengan menambahkan dua atau lebih spasi di akhir kalimat.
 
-## Markdown Syntax
+### Markdown Syntax
 
 ```Ini merupakan contoh  ``` 
 ```penggunaan Line Break  ``` 
@@ -9,13 +10,13 @@ Line break dapat dibuat dengan menambahkan dua atau lebih spasi di akhir kalimat
 Ini merupakan contoh  
 penggunaan Line break   
 
-## HTML Syntax
+### HTML Syntax
 ```<p> Ini merupakan contoh <br /> penggunaan Line Break  </p>``` 
 
 #### Preview
 <p> Ini merupakan contoh <br /> penggunaan Line break </p>
 
 
-Kembali ke [[Basic Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial | Home]]
+Kembali ke [Basic Syntax](./Basic%20Syntax.md)    
+Kembali ke [Home](/)
 

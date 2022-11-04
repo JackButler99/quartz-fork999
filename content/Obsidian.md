@@ -2,6 +2,6 @@ Obsidian merupakan sebuah aplikasi perangkat lunak pengolah teks berbasis [Markd
 
 Obsidian dapat di unduh di [official website Obsidian](https://obsidian.md/)
 
-Obsidian dapat menjalankan seluruh [[Basic Syntax]] markdown. Namun belum dapat menjalankan beberapa fitur [[Extended Syntax]]. Adapun Fitur-fitur [[Extended Syntax]] yang disupport oleh Obsidian terlampir pada tautan **[INI](https://www.markdownguide.org/tools/obsidian/)** 
+Obsidian dapat menjalankan seluruh [Basic Syntax](./2-Basic%20Syntax/Basic%20Syntax.md) markdown. Namun belum dapat menjalankan beberapa fitur [Extended Syntax](./3-Extended%20Syntax/ExtendedSyntax.md). Adapun Fitur-fitur [Extended Syntax](./3-Extended%20Syntax/ExtendedSyntax.md) yang disupport oleh Obsidian terlampir pada tautan **[INI](https://www.markdownguide.org/tools/obsidian/)** 
 
-Kembali ke [[Selamat Datang di  Markdown Tutorial |Home]]
+Kembali ke [Home](/)

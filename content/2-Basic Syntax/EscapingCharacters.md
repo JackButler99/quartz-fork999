@@ -1,3 +1,4 @@
+# Escaping Character
 Untuk menampilkan karakter yang digunakan untuk melakukan formatting text pada markdown, ditambahkan satu tanda *backslash* (\ ) di depan karakter tersebut.
 
 ## Markdown Syntax
@@ -34,5 +35,6 @@ Karakter yang menggunakan backslash sebagai escaping characters :
 \!
 \.
 
-Kembali ke [[Basic Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial | Home]]
+Kembali ke [Basic Syntax](./Basic%20Syntax.md)      
+Kembali ke [Home](/)
+

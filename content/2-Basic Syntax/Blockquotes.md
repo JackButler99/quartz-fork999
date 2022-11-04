@@ -1,3 +1,4 @@
+# Blockquotes
 ***Blockquote*** atau **blok kutipan** dapat ditambahkan di Markdown dengan menambahkan tanda (>) pada baris kosong diantara paragraf. 
 
 ***Nested Blockquote**** pun dapat dibuat dengan menambahkan tanda (>) dimana jumlah tanda akan mendefinisikan level blcokquote
@@ -43,5 +44,6 @@
 	<p>Donec volutpat lorem nec metus suscipit, ut fermentum ante bibendum. Morbi ut semper leo, Nam erat lectus.</p>
 	</blockquote>
 </blockquote>
-Kembali ke [[Basic Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial | Home]]
+
+Kembali ke [Basic Syntax](./Basic%20Syntax.md)     
+Kembali ke [Home](/)

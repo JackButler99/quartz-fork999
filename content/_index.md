@@ -1,49 +1,46 @@
-## Overview 
+## Home 
 
-Selamat datang di tutorial penggunaan markdown. 
+#### Selamat datang di tutorial penggunaan markdown. 
 
-Pada dokumen ini akan dibahas tentang penggunaan syntax [Markdown](Markdown-An-Overview.md) dengan ringkas agar dapat membantu kita dalam mencatat apapun ke dalam catatan digital di kehidupan sehari-hari kita.
+Pada dokumen ini akan dibahas tentang penggunaan syntax [Markdown](./Markdown-An-Overview.md) dengan ringkas agar dapat membantu kita dalam mencatat apapun ke dalam catatan digital.
 
-Tutorial ini disarankan dijalankan secara local di komputer Anda menggunakan Software [Obsidian](Obsidian.md) sehingga diharapkan dapat menjadi media penyampaian informasi yang interaktif karena komponen apapun yang terdapat pada dokumen ini akan secara langsung dapat dilihat langsung syntaxnya dengan [Obsidian](Obsidian.md).
 
 ## Quick Start
 
 Berikut ini merupakan shortcut ke beberapa bagian penting dalam dokumen ini, yang meliputi: 
-- [[Markdown - An Overview]], yang akan membahas sekilas tentang Markdown beserta penggunaan dan sejarahnya.
-- [[Basic Syntax]], yang berisi berbagai syntax dasar yang sangat umum di gunakan di [[Mardown Language - An Overview|Markdown]]
-- [[Extended Syntax]], yang memuat syntax tingkat lanjut yang lumayan kompleks.
-- [[Cheatsheet]], yang berisi syntax [[Mardown Language - An Overview|Markdown]] yang sering digunakan.
+1.  [Markdown](./Markdown-An-Overview.md) yang akan membahas sekilas tentang Markdown beserta penggunaan dan sejarahnya.    
+2.  [Basic Syntax](./2-Basic%20Syntax/Basic%20Syntax.md), yang berisi berbagai syntax dasar yang sangat umum di gunakan di [Markdown](./Markdown-An-Overview.md).    
+3. [Extended Syntax](./3-Extended%20Syntax/ExtendedSyntax.md), yang memuat syntax tingkat lanjut yang lumayan kompleks.     
+4. [Cheatsheet](./4-Cheatsheet/Cheatsheet.md), yang berisi syntax [Markdown](./Markdown-An-Overview.md) yang sering digunakan.         
 
 ## Daftar Isi
-_1. [[Markdown - An Overview]]_
-	__1.1  Apa itu Markdown Language ?__ 
-	__1.2 Penggunaan Markdown Language secara umum__
-	__1.3 Sejarah Singkat Markdown Language__
-	
-_2. [[Basic Syntax]]
-	__[[ 2.1 Headings]]__
-	__[[2.2 Paragraph]]__
-	__[[2.3 Line Breaks]]__
-	__[[2.4 Bold and Italic (Emphasis)]]__
-	__[[2.5 Blockquotes]]__
-	__[[2.6 Lists]]__
-	__[[2.7 Code]]__
-	__[[2.8 Horizontal Rule]]__
-	__[[2.9 Links]]__
-	__[[2.10 Images]]__
-	__[[2.11 Escaping Characters]]__
-	
-_3. [[Extended Syntax]]
-	__[[ 3.1 Tables]]__
-	__[[3.2 Fenced Code Blocks]]__
-	__[[3.3 Footnotes]]__
-	__[[3.4 Heading ID]]__
-	__[[3.5 Definition Lists]]__
-	__[[3.6 Strikethrough]]__
-	__[[3.7 Task Lists]]__
-	
+1. [Markdown](./Markdown-An-Overview.md)    
+	- Apa itu Markdown Language ?     
+	- Penggunaan Markdown Language secara umum     
+	- Sejarah Singkat Markdown Language     
 
-_4. [[Cheatsheet]]
+2. [Basic Syntax](./2-Basic%20Syntax/Basic%20Syntax.md)      
+	- [Headings](./2-Basic%20Syntax/Headings.md)       
+	- [Paragraph](./2-Basic%20Syntax/Paragraph.md)         
+	- [Line Breaks](./2-Basic%20Syntax/LineBreaks.md)     
+	- [Bold and Italic (Emphasis)](./2-Basic%20Syntax/Emphasis.md)     
+	- [Blockquotes](./2-Basic%20Syntax/Blockquotes.md)      
+	- [Lists](./2-Basic%20Syntax/Lists.md)
+	- [Code](./2-Basic%20Syntax/Code.md)
+	-	[Horizontal Rule](./2-Basic%20Syntax/HorizontalRule.md)       
+	- [Links](./2-Basic%20Syntax/Links.md)     
+	- [Images](./2-Basic%20Syntax/Images.md)    
+	- [Escaping Characters](./2-Basic%20Syntax/EscapingCharacters.md)
 
-_5. [[Obsidian]]_
-_6.  [[References]]_
+3. [Extended Syntax](./3-Extended%20Syntax/ExtendedSyntax.md)      
+	- [Tables](./3-Extended%20Syntax/Tables.md)       
+	- [Fenced Code Blocks](./3-Extended%20Syntax/FencedCode.md)         
+	- [Footnotes](./3-Extended%20Syntax/Footnotes.md)     
+	- [Heading ID](./3-Extended%20Syntax/HeadingID.md)
+	- [Definition Lists](./3-Extended%20Syntax/DefinitionLists.md)
+	- [Strikethrough](./3-Extended%20Syntax/Strikethrough.md)
+	- [Task List](./3-Extended%20Syntax/TaskLists.md)	     
+	
+4. [Cheatsheet](./4-Cheatsheet/Cheatsheet.md)
+5. [Obsidian](./Obsidian.md)
+6.  [References](./References.md)

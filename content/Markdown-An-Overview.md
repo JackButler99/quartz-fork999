@@ -32,3 +32,6 @@ Pada awal tahun 2000an, menulis web merupakan pekerjaan yang cukup kompleks kare
 [John Grubber](https://en.wikipedia.org/wiki/John_Gruber) dan [Aaron Swatz](https://en.wikipedia.org/wiki/Aaron_Swartz), mengembangkan Markdown Language pada 2004 hingga pada tahun 2014, Markdown distandarisasi dan didokumentasikan oleh [CommonMark](https://commonmark.org/) dan menjadi Markdown yang kita kenal sekarang.
 
 Referensi: [The History of Markdown: A Prelude to the No-Code Movement](https://www.taskade.com/blog/markdown-history/) 
+
+
+Kembali ke [Home](/)

@@ -1,3 +1,4 @@
+# Headings
 Headings dapat dibuat dengan menambahkan '#' di depan suatu kalimat. Banyaknya karakter '#' akan menentukan level headings.
 
 | Markdown Syntax | HTML Syntax |
@@ -18,8 +19,8 @@ Headings dapat dibuat dengan menambahkan '#' di depan suatu kalimat. Banyaknya k
 ##### Heading level 5
 ###### Heading level 6
 
-Kembali ke [[Basic Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial | Home]]
+Kembali ke [Basic Syntax](./Basic%20Syntax.md)    
+Kembali ke [Home](/)
 
 
 

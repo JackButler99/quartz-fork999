@@ -1,4 +1,5 @@
-Pada bagian ini, akan dibahas versi dasar pembuatan blok kode yang dirancang oleh John Gruber. Untuk versi terbaru dari pembuatan blok kode, harap kunjungi [[3.2 Fenced Code Blocks | Fenced Code Blocks]].
+# Code
+Pada bagian ini, akan dibahas versi dasar pembuatan blok kode yang dirancang oleh [John Gruber](https://en.wikipedia.org/wiki/John_Gruber). Untuk versi terbaru dari pembuatan blok kode, harap kunjungi  [Fenced Code Blocks](../3-Extended%20Syntax/FencedCode.md).
 
 Untuk membuat blok kode sederhana, pada dasarnya hanya diperlukan :
 - satu atau dua tick marks```(`) ```untuk _inline code_  
@@ -28,7 +29,7 @@ Contoh :
 		main()
 
 
-Versi extended dari codeblock  yaitu [[3.2 Fenced Code Blocks | Fenced Code Blocks]] telah memiliki fitur untuk *highlighting text* berdasarkan bahasa pemrograman agar blok kode dapat terlihat lebih menarik. .
+Versi extended dari codeblock  yaitu [Fenced Code Blocks](../3-Extended%20Syntax/FencedCode.md) telah memiliki fitur untuk *highlighting text* berdasarkan bahasa pemrograman agar blok kode dapat terlihat lebih menarik. 
 
-Kembali ke [[Basic Syntax]]
-Kembali ke [[Selamat Datang di  Markdown Tutorial | Home]]
+Kembali ke [Basic Syntax](./Basic%20Syntax.md)    
+Kembali ke [Home](/)
